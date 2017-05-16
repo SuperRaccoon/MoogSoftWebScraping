@@ -10,7 +10,6 @@ The definition of what constitutes as a relevant word or phrase is at the discre
  
 The submission must compile and should therefore contain all source files and libraries to be able to run the program. It is better to send everything than have something missing.
 The output should be an ordered list of the most relevant words or phrases to the standard-output (i.e. simply printed).
-https://ci6.googleusercontent.com/proxy/RnNZfQn2o2xpggJQqefCOervMbPIci5mujDPJnvl43kv6Rtxjyh5gHN_JKVzeU-aaGz3pePFgxfoAAtZJZNx8mveVTc-11j98EfuAJVcumUenA=s0-d-e1-ft#https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif
 The submission should be coded in Java (Java 7+ should be used).
  
 The submission does not need to contain unit tests or be "perfect" code, considering the time constraint.
